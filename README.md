@@ -20,5 +20,8 @@ first way to change  pic size with html code
 <!-- Açıklama veya başlık -->
   <img src="images/canvasClass.png" width="25%" height="25%"/>
 
- 
+ <div align="center">
+    <img src="images/canvasClass.png" width="40%" height="40%"/>
+</div>
+
 
