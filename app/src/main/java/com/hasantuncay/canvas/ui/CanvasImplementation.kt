@@ -297,6 +297,6 @@ size= Size(width = 100.dp.toPx(), height = 50.dp.toPx()),
 @Preview(showBackground = true)
 @Composable
 fun PreviewCanvas() {
-    CanvasClass()
-    //CanvasModifier()
+  //  CanvasClass()
+   CanvasModifier()
 }
