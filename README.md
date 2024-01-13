@@ -28,7 +28,7 @@ first way to change  pic size with html code
   
   1- DrawPoints
   
-  <img src="  https://github.com/Hasan-Tuncay/Canvas/blob/master/images/Screenshot_20240114_012206.png" width="25%" height="25%"/>
+  <img src="images/Screenshot_20240114_012206.png" width="25%" height="25%"/>
  
 </div>
 
