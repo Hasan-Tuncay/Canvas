@@ -33,7 +33,7 @@ first way to change  pic size with html code
     
  2- DrawLine
 
-  <img src="images/DrawLine" width="25%" height="25%"/>
+  <img src="images/drawLine" width="25%" height="25%"/>
  
 </div>
 
