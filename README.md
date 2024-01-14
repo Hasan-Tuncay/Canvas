@@ -34,3 +34,14 @@ first way to change  pic size with html code
 
  
 <img src="images/canvasModifier.png" width="30%" /> <img src="images/canvasClass.png" width="30%" /> <img src="images/Screenshot_20240114_012206.png" width="30%" />
+### Canvas with Modifier
+<img src="images/canvasModifier.png" width="30%" /><br>
+Canvas Modifier açıklaması burada yer alabilir.
+
+### Canvas with Canvas Class
+<img src="images/canvasClass.png" width="30%" /><br>
+Canvas Class ile ilgili açıklama buraya yazılabilir.
+
+### Canvas Shapes
+<img src="images/Screenshot_20240114_012206.png" width="30%" /><br>
+Canvas Shapes hakkındaki açıklamalar burada olabilir.
