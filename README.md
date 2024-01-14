@@ -20,15 +20,26 @@
 </p>
 
 <p float="left">
-  ### Canvas with Modifier
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
+### Canvas with Modifier
+<p float="left">
+  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
+  <br>
   Canvas Modifier açıklaması burada yer alabilir.
-  ### Canvas with Modifier
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
+</p>
+
+### Canvas with Modifier
+<p float="left">
+  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
+  <br>
   Canvas Modifier açıklaması burada yer alabilir.
-  ### Canvas with Modifier
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
+</p>
+
+### Canvas with Modifier
+<p float="left">
+  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
+  <br>
   Canvas Modifier açıklaması burada yer alabilir.
+</p>
 </p>
 <p float="left">
   <img src="images/canvasClass.png" width="30%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
