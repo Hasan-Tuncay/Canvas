@@ -33,3 +33,21 @@ first way to change  pic size with html code
 </div>
 
 
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+ 
+    <div>
+        <h3>Canvas with Modifier</h3>
+        <img src="images/canvasModifier.png" width="25%" height="25%"/>
+    </div>
+ 
+    <div>
+        <h3>Canvas with Canvas Class</h3>
+        <img src="images/canvasClass.png" width="25%" height="25%"/>
+    </div>
+
+ 
+    <div>
+        <h3>Canvas Shapes</h3>
+        <img src="images/Screenshot_20240114_012206.png" width="25%" height="25%"/>
+    </div>
+</div>
