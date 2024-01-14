@@ -62,7 +62,7 @@ fun DrawLine() {
             brush = brush,
             start = Offset(x = 300f, y = 500f),
             end = Offset(x = 300f, y = 1000f),
-            strokeWidth = 49f,
+            strokeWidth = 23f,
             cap = StrokeCap.Square,
             pathEffect = PathEffect.dashPathEffect(floatArrayOf(0f, 0f), 0f),
             alpha = 1f,
@@ -110,8 +110,8 @@ fun DrawLine() {
             strokeWidth = 49f,
             cap = StrokeCap.Butt,
             pathEffect = PathEffect.dashPathEffect(floatArrayOf(0f, 0f), 0f),
-            alpha = 1f,
-            colorFilter = ColorFilter.tint(Color.Blue),
+            alpha = 0.3f,
+            colorFilter = ColorFilter.tint(Color.Black),
             blendMode = BlendMode.SrcOver
         )
 
