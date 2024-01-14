@@ -1,10 +1,13 @@
 <p float="left">
   ### Canvas with Modifier
   <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
+  Canvas Modifier açıklaması burada yer alabilir.
   ### Canvas with Modifier
   <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
+  Canvas Modifier açıklaması burada yer alabilir.
   ### Canvas with Modifier
   <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
+  Canvas Modifier açıklaması burada yer alabilir.
 </p>
 <p float="left">
   <img src="images/canvasClass.png" width="30%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
