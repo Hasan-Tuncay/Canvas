@@ -1,10 +1,10 @@
 <p float="left">
   ### Canvas with Modifier
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
   ### Canvas with Modifier
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
   ### Canvas with Modifier
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
 </p>
 <p float="left">
   <img src="images/canvasClass.png" width="30%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
