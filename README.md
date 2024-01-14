@@ -34,7 +34,9 @@ first way to change  pic size with html code
  2- DrawLine
 
   <img src="images/drawLine.png" width="25%" height="25%"/>
- 
+ 3- DrawRect
+
+  <img src="images/drawRect.png" width="25%" height="25%"/>
 </div>
 
   <p float="left">
