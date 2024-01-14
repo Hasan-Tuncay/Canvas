@@ -3,7 +3,7 @@
 
  <div align="center">
   
-  Canvas Implementation
+ ### Canvas Implementation
  
  Look up the CanvasImplementation.kt
  
@@ -25,12 +25,18 @@ first way to change  pic size with html code
 <!-- Açıklama veya başlık -->
   <img src="images/canvasClass.png" width="25%" height="25%"/>
 
-  Canvas Shapes
+ ### Canvas Shapes
   
   1- DrawPoints
 
   <img src="images/Screenshot_20240114_012206.png" width="25%" height="25%"/>
- 
+    
+ 2- DrawLine
+
+  <img src="images/drawLine.png" width="25%" height="25%"/>
+ 3- DrawRect
+
+  <img src="images/drawRect.png" width="25%" height="25%"/>
 </div>
 
   <p float="left">
