@@ -1,3 +1,13 @@
+<p float="left">
+  <img src="images/canvasClass.png" width="30%" />
+  <img src="images/canvasClass.png" width="30%" />
+  <img src="images/canvasClass.png" width="30%" />
+</p>
+<p float="left">
+  <img src="images/canvasClass.png" width="30%" />
+  <img src="images/canvasClass.png" width="30%" />
+  <img src="images/canvasClass.png" width="30%" />
+</p>
 
 
  <div align="center">
