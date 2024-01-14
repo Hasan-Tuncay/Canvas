@@ -1,8 +1,7 @@
  
 
-  <p float="left"> 
-   
-  ### Canvas with Modifier
+<div class="header">
+    ### Canvas with Modifier
   <p float="left">
      <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
  
@@ -18,8 +17,11 @@
   <img src="images/Screenshot_20240114_012206.png" width="30%" /> &nbsp;&nbsp;&nbsp;
  
    </p>
+    
+</div>
    
-  </p> 
+
+ 
  
 
 
