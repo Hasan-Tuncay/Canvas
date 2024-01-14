@@ -38,6 +38,9 @@ first way to change  pic size with html code
  3- DrawRect
  
  <img src="images/drawRect.png" width="25%" height="25%"/>
+  4- DrawRoundRect
+ 
+ <img src="images/drawRoundRect.png" width="25%" height="25%"/>
   
 </div>
 
