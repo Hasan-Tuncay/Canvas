@@ -1,4 +1,5 @@
-
+ 
+ 
 
  <div align="center">
   
@@ -27,9 +28,12 @@ first way to change  pic size with html code
   Canvas Shapes
   
   1- DrawPoints
-  
+
   <img src="images/Screenshot_20240114_012206.png" width="25%" height="25%"/>
  
 </div>
 
-
+  <p float="left">
+  <img src="images/resim1.png" width="30%" />&nbsp;&nbsp;&nbsp;<img src="images/resim2.png" width="30%" />&nbsp;&nbsp;&nbsp;<img src="images/resim3.png" width="30%" />
+</p> 
+ 
