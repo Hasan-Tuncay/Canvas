@@ -50,6 +50,11 @@ first way to change  pic size with html code
    5- DrawArc
  
  <img src="images/drawArc.png" width="25%" height="25%"/>
+
+ 
+   5- DrawCircle
+ 
+ <img src="images/drawCirc.png" width="25%" height="25%"/>
 </div>
 
   <p float="left">
