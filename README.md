@@ -33,3 +33,4 @@ first way to change  pic size with html code
 </div>
 
  
+<img src="images/canvasModifier.png" width="30%" /> <img src="images/canvasClass.png" width="30%" /> <img src="images/Screenshot_20240114_012206.png" width="30%" />
