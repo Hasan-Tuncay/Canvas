@@ -9,9 +9,9 @@
 
 ### Canvas with Class
 <p float="left">
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;  dsad
+ ### Canvas with Class <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;  
 
-   <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; dsad
+ ### Canvas with Class  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp; 
     
   
 </p>
