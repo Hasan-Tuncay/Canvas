@@ -10,6 +10,7 @@
 ### Canvas with Class
 <p float="left">
   <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
+ <H3>Cansda</H3>
      <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
   
 </p>
