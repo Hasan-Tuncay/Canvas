@@ -4,19 +4,19 @@
   ### Canvas with Modifier
   <p float="left">
      <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
-   <br>
+ 
    </p>
 
 ### Canvas with Class
 <p float="left">
   <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
-  <br>
+  
 </p>
 
 ### Canvas with Modifier
 <p float="left">
   <img src="images/Screenshot_20240114_012206.png" width="30%" /> &nbsp;&nbsp;&nbsp;
-  <br>
+ 
    </p>
  
  
