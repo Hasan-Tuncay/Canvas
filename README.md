@@ -1,23 +1,4 @@
-### Canvas with Modifier
-<p float="left">
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
-  <br>
-  Canvas Modifier açıklaması burada yer alabilir.
-</p>
-
-### Canvas with Modifier
-<p float="left">
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
-  <br>
-  Canvas Modifier açıklaması burada yer alabilir.
-</p>
-
-### Canvas with Modifier
-<p float="left">
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;
-  <br>
-  Canvas Modifier açıklaması burada yer alabilir.
-</p>
+ 
 
 <p float="left">
 ### Canvas with Modifier
@@ -41,11 +22,7 @@
   Canvas Modifier açıklaması burada yer alabilir.
 </p>
 </p>
-<p float="left">
-  <img src="images/canvasClass.png" width="30%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/canvasClass.png" width="30%" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+ 
 
 
  <div align="center">
@@ -81,15 +58,4 @@ first way to change  pic size with html code
 </div>
 
  
-<img src="images/canvasModifier.png" width="30%" /> <img src="images/canvasClass.png" width="30%" /> <img src="images/Screenshot_20240114_012206.png" width="30%" />
-### Canvas with Modifier
-<img src="images/canvasModifier.png" width="30%" /><br>
-Canvas Modifier açıklaması burada yer alabilir.
-
-### Canvas with Canvas Class
-<img src="images/canvasClass.png" width="30%" /><br>
-Canvas Class ile ilgili açıklama buraya yazılabilir.
-
-### Canvas Shapes
-<img src="images/Screenshot_20240114_012206.png" width="30%" /><br>
-Canvas Shapes hakkındaki açıklamalar burada olabilir.
+ 
