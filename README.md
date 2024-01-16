@@ -59,7 +59,7 @@ first way to change  pic size with html code
   
   8- DrawText
  
- <img src="images/drawText.png" width="25%" height="25%"/>
+ <img src="images/drawtext.png" width="25%" height="25%"/>
  
 </div>
 
