@@ -1,4 +1,4 @@
-package com.hasantuncay.canvas.ui.theme.canvasShapes
+package com.hasantuncay.canvas.canvasShapes
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.fillMaxSize
