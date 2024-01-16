@@ -47,17 +47,17 @@ first way to change  pic size with html code
  
  <img src="images/drawPath.png" width="25%" height="25%"/>
 
-   5- DrawArc
+  6- DrawArc
  
  <img src="images/drawArc.png" width="25%" height="25%"/>
 
  
-   5- DrawCircle
+  7- DrawCircle
  
  <img src="images/drawCirc.png" width="25%" height="25%"/>
 
   
-   6- DrawText
+  8- DrawText
  
  <img src="images/drawText.png" width="25%" height="25%"/>
  
