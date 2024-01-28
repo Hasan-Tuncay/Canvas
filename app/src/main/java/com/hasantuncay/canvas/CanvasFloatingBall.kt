@@ -182,7 +182,7 @@ fun getRandomDistinctPredefinedColor(previousColor: Color): Color {
     val predefinedColors = listOf(
         Color.Red, Color.Green, Color.Blue,
         Color.Yellow, Color.Cyan, Color.Magenta,
-        Color.Black, Color.Gray,
+        Color.Black, Color.Gray, Color.White
         // Add more predefined colors if needed
     )
 
