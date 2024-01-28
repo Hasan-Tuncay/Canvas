@@ -168,7 +168,7 @@ fun SquareClicker(
                 )
             )
         }
-        val squareSize = edge // Kare boyutunu burada ayarlayabilirsiniz.
+        val squareSize = edge
 
         Canvas(
             modifier = Modifier
