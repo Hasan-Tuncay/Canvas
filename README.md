@@ -63,7 +63,7 @@ first way to change  pic size with html code
 
    8- DrawText
  
-![Screen Recording](Screen_recording_20240128_132607.mp4)
+ 
 
  
 </div>
