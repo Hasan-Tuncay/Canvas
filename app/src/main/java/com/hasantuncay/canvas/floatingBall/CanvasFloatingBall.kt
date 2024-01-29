@@ -1,4 +1,4 @@
-package com.hasantuncay.canvas
+package com.hasantuncay.canvas.floatingBall
 
 import android.util.Log
 import androidx.compose.animation.ExperimentalAnimationApi
