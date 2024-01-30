@@ -10,6 +10,8 @@ import androidx.compose.ui.geometry.Rect
 import androidx.compose.ui.geometry.RoundRect
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Path
+import androidx.compose.ui.graphics.StrokeCap
+import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.drawscope.DrawScope.Companion.DefaultBlendMode
 import androidx.compose.ui.graphics.drawscope.Fill
 import androidx.compose.ui.graphics.drawscope.Stroke
@@ -185,8 +187,32 @@ fun DrawPath() {
             blendMode = DefaultBlendMode
         )
 
+        val path = Path().apply {
+            moveTo(500f, 1800f)
+            lineTo(100f, 1500f)
+            lineTo(500f, 1500f)
+//                    quadraticBezierTo(800f, 300f, 500f, 100f)
+            cubicTo(800f, 1500f, 800f, 1100f, 500f, 1100f)
+        }
+        drawPath(
+            path = path,
+            color = Color.Red,
+            style = Stroke(
+                width = 10.dp.toPx(),
+                cap = StrokeCap.Round,
+                join = StrokeJoin.Miter,
+                miter = 0f
+            )
+
+        )
+
+
 
     })
+
+
+
+
 }
 
 @Preview(showBackground = true)
